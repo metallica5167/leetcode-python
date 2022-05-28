@@ -1,6 +1,6 @@
 # leetcode-python
 Hello :)
 ## To do
-- 1523 runs out of memory when trying crazy high numbers
+- anything
 ## Finished
-- soon xd
+- 1523
